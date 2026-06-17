@@ -1,0 +1,6 @@
+{
+  "name": "NeuralOS",
+  "description": "Unified Enterprise Cognition Engine. Next-gen SaaS platform with automated workflows, real-time analytics, and server-side Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
